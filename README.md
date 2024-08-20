@@ -12,3 +12,7 @@ dayli Dev :<a>https://docs.google.com/presentation/d/1r_EAEZ7yVjoTbYNmkxtWjVhaG0
 
 Virtualle-box :<a>https://docs.google.com/presentation/d/1c_kbCczW4WF7yFGDyN8FOdSgXjz0CP_bLjpzsRqU1vU/edit?usp=sharing</a>.
 
+Optimisation for images stoking : FTP,AWS,DCNS,etc.
+
+
+
